@@ -1,7 +1,7 @@
 # tw33n - Tweening in lua made easy
 
 ## What is tweening?
-** Tweening ** is the process of interpolating a value between a starting and an ending constant during a given time.
+**Tweening** is the process of interpolating a value between a starting and an ending constant during a given time.
 
 ## But why?
 Tweening can be used for animating values over time. It is widely used in game development and web design for animation.
